@@ -19,9 +19,11 @@
   },
   "homepage": "https://github.com/Novailoveyou/yt-tm-nodejs-proxy-server#readme",
   "dependencies": {
+    "apicache": "^1.6.3",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.2",
+    "express-rate-limit": "^6.0.5",
     "needle": "^3.0.0"
   },
   "devDependencies": {
